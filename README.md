@@ -9,9 +9,16 @@
 
 Также некоторые распределённые команды используют такой принцип работы, когда каждый разработчик имеет свой репозиторий, а в основной репозиторий пушатся только конечные результаты работы над задачами.
 
+![alt text](https://github.com/StepanovSA/VCS/blob/main/GitLab%201.1.PNG)
+
 # Задание 2. Теги
 Представьте ситуацию, когда в коде была обнаружена ошибка — надо вернуться на предыдущую версию кода, исправить её и выложить исправленный код в продакшн. Мы никуда не будем выкладывать код, но пометим некоторые коммиты тегами и создадим от них ветки.
 
+![alt text](https://github.com/StepanovSA/VCS/blob/main/2.1%20GitHub.PNG)
+
+![alt text](https://github.com/StepanovSA/VCS/blob/main/2.2%20GitLab.PNG)
+
+![alt text](https://github.com/StepanovSA/VCS/blob/main/2.3%20Git.PNG)
 
 # Задание 3. Ветки
 Давайте посмотрим, как будет выглядеть история коммитов при создании веток.
@@ -23,6 +30,12 @@
 Посмотрите, как визуально выглядит ваша схема коммитов: https://github.com/YOUR_ACCOUNT/devops-netology/network.
 Теперь измените содержание файла README.md, добавив новую строчку.
 Отправьте изменения в репозиторий и посмотрите, как изменится схема на странице https://github.com/YOUR_ACCOUNT/devops-netology/network и как изменится вывод команды git log.
+
+![alt text](https://github.com/StepanovSA/VCS/blob/main/3.1%20GitHub.PNG)
+
+![alt text](https://github.com/StepanovSA/VCS/blob/main/3.2%20GitHub.PNG)
+
+![alt text](https://github.com/StepanovSA/VCS/blob/main/3.3%20GitHub.PNG)
 
 
 # Задание 4. Упрощаем себе жизнь
@@ -36,5 +49,7 @@
 
 Попробуйте выполнить пару коммитов, используя IDE.
 
+![alt text](https://github.com/StepanovSA/VCS/blob/main/4.1.PNG)
 
+![alt text](https://github.com/StepanovSA/VCS/blob/main/4.2.PNG)
 
