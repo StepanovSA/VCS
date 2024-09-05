@@ -53,3 +53,9 @@
 
 ![alt text](https://github.com/StepanovSA/VCS/blob/main/4.2.PNG)
 
+
+Прикрепляю ссылки:
+https://gitlab.com/StepanovSA/devops-netology-lab
+
+https://github.com/StepanovSA/devops-netology/branches
+
